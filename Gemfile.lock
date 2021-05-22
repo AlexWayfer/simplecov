@@ -27,7 +27,7 @@ GEM
       rspec-expectations (~> 3.4)
       thor (~> 1.0)
     ast (2.4.1)
-    benchmark-ips (2.8.2)
+    benchmark-ips (2.9.0)
     builder (3.2.4)
     capybara (3.33.0)
       addressable
